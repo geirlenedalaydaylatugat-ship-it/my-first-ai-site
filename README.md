@@ -1,1 +1,25 @@
-# my-first-ai-site
+<!doctype html>
+<html>
+<head>
+  <title>My First AI Website</title>
+</head>
+<body>
+  <header>
+    <h1>My First AI Website</h1>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Welcome! This simple landing page was built using an AI prompt workflow.</p>
+  </section>
+
+  <section>
+    <h2>Favorite Hobbies</h2>
+    <ul>
+      <li>Reading</li>
+      <li>Photography</li>
+      <li>Coding</li>
+    </ul>
+  </section>
+</body>
+</html>
